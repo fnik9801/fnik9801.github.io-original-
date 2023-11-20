@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a 3rd year graduate student at Northwestern University. I am supervised by Antonio Auffinger and Reza Gheissari.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am interested in high dimensional probability. Particularly Spin glasses and their dynamics, and Statiscal learning Theory.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+My email is: curtisgrant2026(at)u(dot)northwestern(dot)edu
