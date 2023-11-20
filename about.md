@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a 3rd year graduate student at Northwestern University. I am supervised by Antonio Auffinger and Reza Gheissari.
+I am a 3rd year graduate student at Northwestern University. I am supervised by [Antonio Auffinger](http://math.northwestern.edu/~auffing/) and [Reza Gheissari](https://sites.northwestern.edu/gheissari/).
 
 ### More Information
 
