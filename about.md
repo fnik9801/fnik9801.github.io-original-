@@ -8,8 +8,8 @@ I am a 3rd year graduate student at Northwestern University. I am supervised by 
 
 ### More Information
 
-I am interested in high dimensional probability. Particularly Spin glasses and their dynamics, and Statiscal learning Theory. 
-Previously I was interested in Geometric Group theory and Geometric topology. 
+I am interested in high dimensional probability. Particularly Spin glasses and their dynamics, and Statiscal learning Theory.   
+Previously I was interested in Geometric Group theory and Geometric topology.   
 My preprints are available [here](curtismgrant.github.io/research)
 
 ### Contact me
