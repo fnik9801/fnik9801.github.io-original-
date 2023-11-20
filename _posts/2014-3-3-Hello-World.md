@@ -4,4 +4,4 @@ title: Starting to understand
 ---
 
 
-We consider the random function \\( H_N(\sigma) = \sum_{i<j} g_{ij} \sigma_i \sigma_j \\) where the \\( g_{ij} \\) are i.i.d standard Gaussian.
+We consider the random function $$ H_N(\sigma) = \sum_{i<j} g_{ij} \sigma_i \sigma_j $$ where the \\( g_{ij} \\) are i.i.d standard Gaussian.
