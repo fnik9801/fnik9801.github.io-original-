@@ -4,4 +4,4 @@ title: Resources
 permalink: /resources/
 ---
 
-- [Cornell Probability Summer School 2024](curtismgrant.github.io/CPSS/)
+- [Cornell Probability Summer School 2024](https://curtismgrant.github.io/CPSS/)
