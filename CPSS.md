@@ -5,7 +5,7 @@ permalink: /CPSS/
 ---
 - [Problem Set 1](https://drive.google.com/file/d/10VP9Dw8mPNFFoOF9uFlUsBcOxKAm9bym/view?usp=sharing)
 - [Problem Set 2](https://drive.google.com/file/d/1S80XAlUHqm8MbdLBH-3QSBRyLIzxAH3m/view?usp=sharing)
-- [Problem Set 3](https://drive.google.com/file/d/1eg46UNy1eHYJGEEBICye9vpGVk5LhgRZ/view?usp=sharing)
+- [Problem Set 3](https://drive.google.com/file/d/1ICoJ4P01ufjXNR7Ihy2nXuU3rv9MB5lJ/view?usp=sharing)
 
 
 
