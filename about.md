@@ -6,6 +6,8 @@ permalink: /about/
 
 I am a 3rd year graduate student at Northwestern University. I am supervised by [Antonio Auffinger](http://math.northwestern.edu/~auffing/) and [Reza Gheissari](https://sites.northwestern.edu/gheissari/).
 
+![image](/images/Headshot\ (website).jpeg)
+
 ### More Information
 
 I primarily work in high dimensional probability. In particular I am interested in behavior of spin glasses (static and dynamic), and applications of probability to high dimensional statistical problems.      
