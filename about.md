@@ -6,7 +6,7 @@ permalink: /about/
 
 ![image](/images/headshot.jpeg){:width="30%" style="float: right"}
 
-I am a 3rd year graduate student at Northwestern University. I am supervised by [Tuca Auffinger](http://math.northwestern.edu/~auffing/) and [Reza Gheissari](https://sites.northwestern.edu/gheissari/).
+I am a 4th year graduate student at Northwestern University. I am supervised by [Tuca Auffinger](http://math.northwestern.edu/~auffing/) and [Reza Gheissari](https://sites.northwestern.edu/gheissari/).
 
 ### More Information
 
