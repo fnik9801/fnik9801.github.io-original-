@@ -4,7 +4,7 @@ title: Chipotle Seminar Fall 2024
 permalink: /chipotleseminar/
 ---
 
-Chipotle Seminar is the informal probability seminar for the Northwestern math department. 
+Chipotle Seminar is the informal probability seminar for the Northwestern math department. We meet in Lunt 102 at noon on the scheduled dates. 
 [A list of recommended papers can be found here](https://drive.google.com/drive/folders/1SgrFx4xFzsO_y8zJdIfwm8mqUqwhj9FA?usp=sharing)
 
 ### Schedule 
