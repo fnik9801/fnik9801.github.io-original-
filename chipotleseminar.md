@@ -11,9 +11,9 @@ Chipotle Seminar is the informal probability seminar for the Northwestern math d
 
 October 2nd: Tuca Auffinger. Reference: [Hessian Spectrum in the ground state for spherical spin glasses](https://arxiv.org/abs/2409.15728). 
 
-October 10th: 
+October 10th: Adityah Upadhya
 
-October 17th: 
+October 17th: Curtis Grant 
 
 October 23rd: 
 
