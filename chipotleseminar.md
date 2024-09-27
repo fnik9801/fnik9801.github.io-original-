@@ -19,7 +19,7 @@ October 23rd:
 
 October 30th: 
 
-November 6th: No Seminar, workshop on random dynamics at NITMB. 
+November 6th: No Seminar, workshop on random dynamics at [NITMB](https://www.nitmb.org/random-dynamical-systems). 
 
 November 13th: 
 
