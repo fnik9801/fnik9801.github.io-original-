@@ -4,16 +4,21 @@ title: About
 permalink: /about/
 ---
 
-![image](/images/headshot.jpeg){:width="30%" style="float: right"}
+<!-- ![image](/images/headshot.jpeg){:width="30%" style="float: right"}--->
 
-I am a 4th year graduate student at Northwestern University. I am supervised by [Tuca Auffinger](http://math.northwestern.edu/~auffing/) and [Reza Gheissari](https://sites.northwestern.edu/gheissari/). My research is partially supported through a NSERC PGSD award. 
+I am a 4th year graduate student at Queen's University. I am a PhD student in thegroup at Queen's University working with Professor [Ram Murty](https://mast.queensu.ca/~murty/).
+
+My research interests broadly fall into two themes: the  analytic and arithmetic properties of L-functions and  obstructions that occur in Number Theory. Some specific problems I am interested in are:
+
+-Artin's holomorphy conjecture.
+-p-adic methods in analytic number theory.
+-The Tate-Shafarevich group and failure of local​–global principles.
+-The parity problem in sieve theory.  In particular, how it arises and methods to overcome it.
+
 
 ### More Information
-
-I primarily work in high dimensional probability. In particular I am interested in behavior of spin glasses (static and dynamic), and applications of probability to high dimensional statistical problems.      
-Previously I have worked on problems in Geometric Group theory and Geometric topology.   
-My CV can be found [here.](https://drive.google.com/file/d/1lHT-1BvbHhAEsHWdN_aplaIONHPMu4qT/view?usp=sharing)
+<!--- My CV can be found [here.](https://drive.google.com/file/d/1lHT-1BvbHhAEsHWdN_aplaIONHPMu4qT/view?usp=sharing) --->
 
 ### Contact me
 
-My email is: curtisgrant2026(at)u(dot)northwestern(dot)edu
+My email is: n.fellini(at)queensu(dot)ca
