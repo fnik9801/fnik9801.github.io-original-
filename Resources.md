@@ -3,5 +3,5 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-- [Chipotle Seminar Fall 2024](https://curtismgrant.github.io/chipotleseminar) 
-- [Cornell Probability Summer School 2024](https://curtismgrant.github.io/CPSS/)
+- [Queen's Number Theory Seminar Fall 2024](https://fnik9801.github.io/NTseminar) 
+- [LMFDB](https://www.lmfdb.org)
