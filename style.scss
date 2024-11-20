@@ -98,11 +98,12 @@ ul ul, ol ul {
   list-style-type: circle;
 }
 
-
-ul li {
-      list-style-image: url("images/hand-drawn-octopus-drawing-illustration_23-2150536957.jpg");
+ul {
+   list-style-image: url("images/hand-drawn-octopus-drawing-illustration_23-2150536957.jpg");
       margin-left: 15px;
-    }
+}
+
+
 
 em, i {
   font-style: italic;
