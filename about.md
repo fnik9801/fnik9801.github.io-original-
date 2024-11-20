@@ -19,7 +19,8 @@ My research interests broadly fall into two themes: the analytic and arithmetic 
 
 
 ### More Information
-<!--- My CV can be found [here.](https://drive.google.com/file/d/1lHT-1BvbHhAEsHWdN_aplaIONHPMu4qT/view?usp=sharing) --->
+My CV can be found 
+<!-- [here.](https://drive.google.com/file/d/1lHT-1BvbHhAEsHWdN_aplaIONHPMu4qT/view?usp=sharing) --->
 
 ### Contact me
 
