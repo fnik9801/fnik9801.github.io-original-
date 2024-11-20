@@ -14,7 +14,7 @@ My research interests broadly fall into two themes: the  analytic and arithmetic
   <li>Artin's holomorphy conjecture. </li>
   <li>p-adic methods in analytic number theory.</li>
   <li>The Tate-Shafarevich group and failure of local​–global principles.</li>
-- <li>The parity problem in sieve theory.  In particular, how it arises and methods to overcome it.</li>
+  <li>The parity problem in sieve theory.  In particular, how it arises and methods to overcome it.</li>
 </ul>
 
 
