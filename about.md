@@ -10,10 +10,12 @@ I am a 4th year graduate student at Queen's University. I am a PhD student in th
 
 My research interests broadly fall into two themes: the  analytic and arithmetic properties of L-functions and  obstructions that occur in Number Theory. Some specific problems I am interested in are:
 
-- Artin's holomorphy conjecture.
-- p-adic methods in analytic number theory.
-- The Tate-Shafarevich group and failure of local​–global principles.
-- The parity problem in sieve theory.  In particular, how it arises and methods to overcome it.
+<ul>
+  <li>Artin's holomorphy conjecture. </li>
+  <li>p-adic methods in analytic number theory.</li>
+  <li>The Tate-Shafarevich group and failure of local​–global principles.</li>
+- <li>The parity problem in sieve theory.  In particular, how it arises and methods to overcome it.</li>
+</ul>
 
 
 ### More Information
