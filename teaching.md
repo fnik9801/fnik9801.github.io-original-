@@ -6,6 +6,7 @@ permalink: /teaching/
 <style>
 table {
   width: 100%;
+  border: 1px solid;
 }
 
 th, td {
