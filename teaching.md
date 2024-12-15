@@ -3,6 +3,19 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+<style>
+table {
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+</style>
+
 <section>
   <h2>Courses taught</h2>
   <h4> Queen's University</h4>
