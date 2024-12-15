@@ -46,7 +46,7 @@ assignment, exam, and test questions).
 </section>
 
 <section>
-  <h2>Teaching Assistant</h2>
+  <h2>Teaching Assistantships</h2>
   <h4> Queen's University</h4>
 
 <table>
@@ -86,7 +86,6 @@ assignment, exam, and test questions).
     <td> 2</td>
   </tr>
 </table>
-</section>
 
 The tutorials I lead often consisted of group discussion/activities where I would let the students work on
 a selection of curated problems that I would chose to give them practice applying important concepts. As
@@ -98,9 +97,7 @@ phasis was normally on addressing specific problems. For project based courses (
 modeling course), office hours were focused on helping students improve their communication skills by pro-
 viding a space for the students to share what they were working on and soliciting feedback.
 
-<section>
-  <h2>Teaching Assistant</h2>
-  <h4> University of Toronto</h4>
+<h4> University of Toronto</h4>
 
 <table>
   <tr>
