@@ -4,7 +4,7 @@ title: Queen's Number Theory Seminar
 permalink: /NTSeminar
 ---
 
-Queen's Number Theory Seminar Fall 2024/
+Queen's Number Theory Seminar Fall 2024
 
 ### Schedule 
 
