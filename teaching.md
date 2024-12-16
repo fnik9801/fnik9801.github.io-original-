@@ -17,10 +17,26 @@ th, td {
 tr:nth-child(even) {background-color: #f2f2f2;}
 </style>
 
+
+
+
+
+
 <section>
   <h2>Courses taught</h2>
-  <h4> Queen's University</h4>
+  <h3> Queen's University</h4>
+  <h2> 2024 </h2>
+  <ul> 
+    <li> MATH121(A) - Calculus 1(A) </li>
+    <li> MATH121(B) - Calculus 1(B) </li>
+  </ui>  
+  <h2> 2023 </h2>
+  <ul> 
+    <li> MATH121(B) - Calculus 1(B) </li>
+    <li> APSC172 - Calculus 2 </li>
+  </ui>
 
+    
 <table>
   <tr>
     <th>Course</th>
