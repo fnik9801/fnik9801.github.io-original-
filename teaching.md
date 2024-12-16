@@ -24,7 +24,7 @@ sessions, course administration, organization of graders and teaching assistants
 
 <section>
   <h2>Teaching Assistantships</h2>
-  <h3> Queen's University</h4>
+  <h3> Queen's University</h3>
   
   <h4> 2025 </h4>
   <ul> 
