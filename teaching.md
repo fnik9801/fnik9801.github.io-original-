@@ -18,8 +18,8 @@ permalink: /teaching/
     <li> APSC172 - Multivariable differential and integral calculus </li>
   </ul>
   
-For each of the four courses in the above table, I was a co-instructors for courses with approximate enrollment between 1000-1800 students. My duties included 2-3 lectures a week, facilitation of problem solving
-sessions, course administration, organization of graders and teaching assistants, and assessment design (i.e., assignment, exam, and test questions).
+<p> For each of the four courses in the above table, I was a co-instructors for courses with approximate enrollment between 1000-1800 students. My duties included 2-3 lectures a week, facilitation of problem solving
+sessions, course administration, organization of graders and teaching assistants, and assessment design (i.e., assignment, exam, and test questions).</p>
 </section>
 
 <section>
@@ -42,11 +42,11 @@ sessions, course administration, organization of graders and teaching assistants
     <li> MTHE217 - Algebraic structures with applications</li>
   </ul>
 
-The tutorials I lead often consisted of group discussion/activities where I would let the students work on a selection of curated problems that I would chose to give them practice applying important concepts. As
-needed, I would supplement these activities with mini-lectures to explain the technical material from the course or to clarify any misconceptions.
+<p>The tutorials I lead often consisted of group discussion/activities where I would let the students work on a selection of curated problems that I would chose to give them practice applying important concepts. As
+needed, I would supplement these activities with mini-lectures to explain the technical material from the course or to clarify any misconceptions.</p>
 
-Office hours were run in a very similar way. Typically, these were smaller groups (5-15) students so the emphasis was normally on addressing specific problems. For project based courses (such as the Mathematical
-modeling course), office hours were focused on helping students improve their communication skills by providing a space for the students to share what they were working on and soliciting feedback.
+<p> Office hours were run in a very similar way. Typically, these were smaller groups (5-15) students so the emphasis was normally on addressing specific problems. For project based courses (such as the Mathematical
+modeling course), office hours were focused on helping students improve their communication skills by providing a space for the students to share what they were working on and soliciting feedback.</p>
 
 <h3> University of Toronto </h3>
 
@@ -70,12 +70,10 @@ modeling course), office hours were focused on helping students improve their co
   <li> Active learning facilator<sup>(2)</sup> </li>
 </ul>
 
-(1) My duties as a head teaching assistant included the regular work of a teaching assistant as well as additional administrative task. In particular, I was tasked with running weekly meetings with 20 other teaching
-assistants to discuss what should be covered in tutorials for the coming week, conduct short training modules, as well as be support for any issues that arose. Additionally, I was tasked with altering the previously
-in-person assessments (assignments, test, quizzes) to online alternatives due to COVID-19.
+<p>(1) My duties as a head teaching assistant included the regular work of a teaching assistant as well as additional administrative task. In particular, I was tasked with running weekly meetings with 20 other teaching assistants to discuss what should be covered in tutorials for the coming week, conduct short training modules, as well as be support for any issues that arose. Additionally, I was tasked with altering the previously in-person assessments (assignments, test, quizzes) to online alternatives due to COVID-19.</p>
 
 
-(2) I was part of a team of teaching assistants specially selected to work in a large active-learning flipped classroom that met three times weekly. I facilitated discussions within student groups, diagnosed and clarified misconceptions in real time, and helped students develop their own strategies to tackle problems.
+<p> (2) I was part of a team of teaching assistants specially selected to work in a large active-learning flipped classroom that met three times weekly. I facilitated discussions within student groups, diagnosed and clarified misconceptions in real time, and helped students develop their own strategies to tackle problems.</p>
 </section>
 
 
