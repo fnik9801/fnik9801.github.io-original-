@@ -20,9 +20,8 @@ My research interests broadly fall into two themes: the analytic and arithmetic 
 
 
 ### More Information
-My CV can be found 
-<!-- [here.](https://drive.google.com/file/d/1lHT-1BvbHhAEsHWdN_aplaIONHPMu4qT/view?usp=sharing) --->
+My CV can be found [here.](posts/NF_CV_15_dec_2024.pdf)
 
 ### Contact me
 
-My email is: n.fellini(at)queensu(dot)ca
+My email is: n(dot)fellini(at)queensu(dot)ca
