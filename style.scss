@@ -12,6 +12,19 @@
 /**************/
 /* BASE RULES */
 /**************/
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+sup {
+    top: -0.5em;
+}
+sub {
+    bottom: -0.25em;
+}
 
 html {
   font-size: 100%;
@@ -289,7 +302,7 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
-sup {font-size:xx-small; vertical-align:top;}
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
