@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-<img src="/images/IMG_2178.PNG" width="30%" height="55%" style="float: right">
+<img src="/images/IMG_2178.PNG" width="200" height="500" style="float: right">
 
 I am a PhD student in the Algebra and Number theory group at Queen's University working with Professor [Ram Murty](https://mast.queensu.ca/~murty/).
 
-My research interests broadly fall into two themes: the analytic and arithmetic study of L-functions and obstructions that occur in Number Theory.
-Some specific problems I am interested in are:
+I am interested in the analytic and arithmetic study of L-functions and obstructions that occur in Number Theory.
 
+Some specific problems I am interested in are:
 <ul>
   <li>Artin's holomorphy conjecture. </li>
   <li>p-adic methods in analytic number theory.</li>
