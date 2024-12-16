@@ -4,10 +4,9 @@ title: About
 permalink: /about/
 ---
 
-![image](/images/IMG_2178.PNG){width: 400px,
-  height: 300px style="float: right"}
+![image](/images/IMG_2178.PNG){:width="30%", height="65%" style="float: right"}
 
-I am a 4th year graduate student at Queen's University. I am a PhD student in the Algebra and Number theory group at Queen's University working with Professor [Ram Murty](https://mast.queensu.ca/~murty/).
+I am a PhD student in the Algebra and Number theory group at Queen's University working with Professor [Ram Murty](https://mast.queensu.ca/~murty/).
 
 My research interests broadly fall into two themes: the analytic and arithmetic study of L-functions and obstructions that occur in Number Theory. Some specific problems I am interested in are:
 
