@@ -14,7 +14,7 @@ Some specific problems I am interested in are:
 <ul>
   <li>Artin's holomorphy conjecture. </li>
   <li>p-adic methods in analytic number theory.</li>
-  <li>The Tate-Shafarevich group and failure of local​–global principles.</li>
+  <li>The Tate&#8211;Shafarevich group and failure of local​–global principles.</li>
   <li>The parity problem in sieve theory.</li>
   <li> The ABC-conjecture and its applications.</li>
 </ul>
