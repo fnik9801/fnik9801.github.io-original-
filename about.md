@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-![image](/images/IMG_2178.PNG){:width="25%" height="55%" style="float: right"}
+<img src="/images/IMG_2178.PNG" width="300" height=auto  style="float: right">
 
 I am a PhD student in the Algebra and Number theory group at Queen's University working with Professor [Ram Murty](https://mast.queensu.ca/~murty/).
 
