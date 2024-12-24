@@ -70,10 +70,10 @@ modeling course), office hours were focused on helping students improve their co
   <li> Active learning facilator<sup>(2)</sup> </li>
 </ul>
 
-<p>(1) My duties as a head teaching assistant included the regular work of a teaching assistant as well as additional administrative task. In particular, I was tasked with running weekly meetings with 20 other teaching assistants to discuss what should be covered in tutorials for the coming week, conduct short training modules, as well as be support for any issues that arose. Additionally, I was tasked with altering the previously in-person assessments (assignments, test, quizzes) to online alternatives due to COVID-19.</p>
+<p> <sup>(1)</sup> My duties as a head teaching assistant included the regular work of a teaching assistant as well as additional administrative task. In particular, I was tasked with running weekly meetings with 20 other teaching assistants to discuss what should be covered in tutorials for the coming week, conduct short training modules, as well as be support for any issues that arose. Additionally, I was tasked with altering the previously in-person assessments (assignments, test, quizzes) to online alternatives due to COVID-19.</p>
 
 
-<p> (2) I was part of a team of teaching assistants specially selected to work in a large active-learning flipped classroom that met three times weekly. I facilitated discussions within student groups, diagnosed and clarified misconceptions in real time, and helped students develop their own strategies to tackle problems.</p>
+<p> <sup>(2)</sup> I was part of a team of teaching assistants specially selected to work in a large active-learning flipped classroom that met three times weekly. I facilitated discussions within student groups, diagnosed and clarified misconceptions in real time, and helped students develop their own strategies to tackle problems.</p>
 </section>
 
 
